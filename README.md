@@ -4,7 +4,7 @@
 This project involves analyzing machine downtime across 4 global factories and auditing internal gender pay equality.
 
 ## 📈 Dashboard Preview
-![Dashboard Screenshot](Machine%downtime%dashboard.png)
+![Dashboard Screenshot](Machine%20downtime%20dashboard.png)
 
 ## 🛠️ Tech Stack
 * **Tableau** (Data Visualization)
